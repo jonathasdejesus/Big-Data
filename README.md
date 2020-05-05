@@ -1,2 +1,2 @@
 # projeto_a
-um repositório simples 
+Site falando sobre Big Data
